@@ -45,7 +45,7 @@ export default function FormsPage() {
           </div>
           <p className="mt-8 text-center text-xs text-brand-gray">
             * 양식 파일 업로드 후 다운로드 링크를 연결하시면 됩니다.
-            (README의 "수정 체크리스트" 참고)
+            (README의 &lsquo;수정 체크리스트&rsquo; 참고)
           </p>
         </div>
       </section>
