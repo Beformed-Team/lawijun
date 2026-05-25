@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 56" width="260" height="56" role="img" aria-label="법무법인 이준 강북 분사무소">
+  <defs>
+    <style>
+      .navy { fill: #0F2C4A; }
+      .gold { fill: #B89461; }
+      .wordmark { font-family: 'Noto Sans KR', 'Pretendard', system-ui, sans-serif; font-weight: 800; }
+      .sub { font-family: 'Noto Sans KR', 'Pretendard', system-ui, sans-serif; font-weight: 500; letter-spacing: 0.18em; }
+    </style>
+  </defs>
+  <g transform="translate(8 8)">
+    <rect class="navy" x="0" y="0" width="40" height="40" rx="4"/>
+    <text class="wordmark" x="20" y="27" text-anchor="middle" font-size="18" fill="#ffffff">이</text>
+    <rect class="gold" x="0" y="35" width="40" height="5"/>
+  </g>
+  <g transform="translate(60 0)">
+    <text class="wordmark navy" x="0" y="28" font-size="20">법무법인 이준</text>
+    <text class="sub navy" x="0" y="46" font-size="9" opacity="0.7">LAW FIRM YIJUN · 강북 분사무소</text>
+  </g>
+</svg>

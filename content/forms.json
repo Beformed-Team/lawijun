@@ -1,0 +1,8 @@
+[
+  { "id": "f1", "title": "위임장 양식", "category": "공통", "size": "PDF · 1MB" },
+  { "id": "f2", "title": "개인회생 채권자목록 양식", "category": "회생 · 파산", "size": "HWP · 320KB" },
+  { "id": "f3", "title": "민사 소장 표준 양식", "category": "민사", "size": "HWP · 280KB" },
+  { "id": "f4", "title": "이혼 재산분할 청구서 양식", "category": "가사", "size": "PDF · 540KB" },
+  { "id": "f5", "title": "형사 합의서 양식", "category": "형사", "size": "PDF · 420KB" },
+  { "id": "f6", "title": "외국인 진술서 영문 양식", "category": "외국인", "size": "DOCX · 180KB" }
+]

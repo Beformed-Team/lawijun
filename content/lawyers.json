@@ -1,0 +1,78 @@
+[
+  {
+    "slug": "kim-representative",
+    "name": "{{대표변호사 성함 입력 필요}}",
+    "role": "대표변호사",
+    "photo": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=600&q=80",
+    "expertise": ["회생 · 파산", "민사", "기업 자문"],
+    "education": ["사법연수원 OO기 수료", "OO대학교 법학과 졸업"],
+    "career": [
+      "법무법인 이준 강북 분사무소 대표변호사",
+      "前 OO지방법원 판사",
+      "前 OO지방검찰청 검사"
+    ]
+  },
+  {
+    "slug": "lee-partner",
+    "name": "{{파트너 변호사 성함}}",
+    "role": "파트너변호사",
+    "photo": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=600&q=80",
+    "expertise": ["형사 · 성범죄", "가사 · 이혼"],
+    "education": ["사법연수원 OO기 수료", "OO대학교 법학전문대학원 졸업"],
+    "career": [
+      "법무법인 이준 파트너변호사",
+      "前 대한변호사협회 인권위원",
+      "前 OO지방법원 국선전담변호사"
+    ]
+  },
+  {
+    "slug": "park-senior",
+    "name": "{{시니어 변호사 성함}}",
+    "role": "시니어변호사",
+    "photo": "https://images.unsplash.com/photo-1556157382-97eda2d62296?auto=format&fit=crop&w=600&q=80",
+    "expertise": ["민사 · 손해배상", "부동산"],
+    "education": ["변호사시험 OO회", "OO대학교 법학전문대학원 졸업"],
+    "career": [
+      "법무법인 이준 시니어변호사",
+      "前 OO법무법인 변호사",
+      "前 OO공사 법무팀"
+    ]
+  },
+  {
+    "slug": "choi-associate",
+    "name": "{{어소시에이트 변호사 성함}}",
+    "role": "어소시에이트변호사",
+    "photo": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=600&q=80",
+    "expertise": ["가사 · 이혼", "상속"],
+    "education": ["변호사시험 OO회", "OO대학교 법학전문대학원 졸업"],
+    "career": [
+      "법무법인 이준 어소시에이트변호사",
+      "前 OO법률사무소 변호사"
+    ]
+  },
+  {
+    "slug": "jung-foreign",
+    "name": "{{외국인 업무 변호사 성함}}",
+    "role": "어소시에이트변호사",
+    "photo": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?auto=format&fit=crop&w=600&q=80",
+    "expertise": ["외국인 업무", "국제민사"],
+    "education": ["변호사시험 OO회", "OO대학교 법학전문대학원 졸업"],
+    "career": [
+      "법무법인 이준 외국인 업무 전담",
+      "영어 · 중국어 상담 가능"
+    ]
+  },
+  {
+    "slug": "han-criminal",
+    "name": "{{형사 변호사 성함}}",
+    "role": "어소시에이트변호사",
+    "photo": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?auto=format&fit=crop&w=600&q=80",
+    "expertise": ["형사 · 성범죄", "수사 단계 변호"],
+    "education": ["변호사시험 OO회", "OO대학교 법학전문대학원 졸업"],
+    "career": [
+      "법무법인 이준 어소시에이트변호사",
+      "前 OO지방검찰청 검찰수사관 출신 자문",
+      "각종 강력 · 경제 · 성범죄 사건 다수 수행"
+    ]
+  }
+]

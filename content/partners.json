@@ -1,0 +1,10 @@
+[
+  { "name": "주식회사 OO홀딩스", "field": "지주회사", "since": "2023" },
+  { "name": "메디케어 OO병원", "field": "의료법인", "since": "2022" },
+  { "name": "OO 글로벌 컴퍼니", "field": "수출입", "since": "2024" },
+  { "name": "한국 OO 협회", "field": "비영리법인", "since": "2021" },
+  { "name": "OO 테크놀로지스", "field": "IT/SW", "since": "2024" },
+  { "name": "OO 종합건설", "field": "건설업", "since": "2022" },
+  { "name": "OO 식품", "field": "식품제조", "since": "2023" },
+  { "name": "OO 캐피탈", "field": "금융", "since": "2024" }
+]

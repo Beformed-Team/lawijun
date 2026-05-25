@@ -1,0 +1,86 @@
+{
+  "newsletters": [
+    {
+      "id": "nl-2025-05",
+      "issue": "2025.05",
+      "title": "회생·파산 분야 최신 판례 동향",
+      "group": "회생 · 파산",
+      "date": "2025-05-01",
+      "summary": "최근 6개월간 회생·파산 분야의 주요 판례와 실무 변화를 정리합니다.",
+      "thumbnail": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=900&q=80",
+      "fileSize": "PDF · 1.8MB"
+    },
+    {
+      "id": "nl-2025-04",
+      "issue": "2025.04",
+      "title": "외국인 비자 행정심판 트렌드",
+      "group": "외국인 업무",
+      "date": "2025-04-01",
+      "summary": "최근 출입국 정책 변화와 행정심판 인용 사례를 분석합니다.",
+      "thumbnail": "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?auto=format&fit=crop&w=900&q=80",
+      "fileSize": "PDF · 1.4MB"
+    },
+    {
+      "id": "nl-2025-03",
+      "issue": "2025.03",
+      "title": "이혼 재산분할 기여도 인정 기준",
+      "group": "가사 · 이혼",
+      "date": "2025-03-01",
+      "summary": "최근 가정법원의 재산분할 비율 결정 경향을 사례 중심으로 정리합니다.",
+      "thumbnail": "https://images.unsplash.com/photo-1505664194779-8beaceb93744?auto=format&fit=crop&w=900&q=80",
+      "fileSize": "PDF · 1.2MB"
+    },
+    {
+      "id": "nl-2025-02",
+      "issue": "2025.02",
+      "title": "형사 사건 초동 대응 가이드",
+      "group": "형사 · 성범죄",
+      "date": "2025-02-01",
+      "summary": "수사 첫 출석부터 구속 단계까지의 변호 전략을 안내합니다.",
+      "thumbnail": "https://images.unsplash.com/photo-1589994965851-a8f479c573a9?auto=format&fit=crop&w=900&q=80",
+      "fileSize": "PDF · 1.6MB"
+    },
+    {
+      "id": "nl-2025-01",
+      "issue": "2025.01",
+      "title": "민사 손해배상 청구 실무",
+      "group": "민사 · 손해배상",
+      "date": "2025-01-01",
+      "summary": "청구원인 구성과 증거 수집 전략, 최근 판례 흐름을 정리했습니다.",
+      "thumbnail": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=900&q=80",
+      "fileSize": "PDF · 1.3MB"
+    }
+  ],
+  "brochures": [
+    {
+      "id": "br-firm",
+      "issue": "2025",
+      "title": "법무법인 이준 종합 브로슈어",
+      "group": "법인 소개",
+      "date": "2025-03-15",
+      "summary": "법인 소개, 구성원, 주요 업무사례, 자문 영역을 한 권에 담았습니다.",
+      "thumbnail": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=900&q=80",
+      "fileSize": "PDF · 4.2MB"
+    },
+    {
+      "id": "br-corporate",
+      "issue": "2025",
+      "title": "기업 자문 서비스 브로슈어",
+      "group": "기업 자문",
+      "date": "2025-02-20",
+      "summary": "법인 의뢰인을 위한 자문 영역과 협력 체계를 안내합니다.",
+      "thumbnail": "https://images.unsplash.com/photo-1423592707957-3b212afa6733?auto=format&fit=crop&w=900&q=80",
+      "fileSize": "PDF · 3.1MB"
+    },
+    {
+      "id": "br-foreign",
+      "issue": "2025",
+      "title": "Foreign Client Services Brochure (EN/CN)",
+      "group": "외국인 업무",
+      "date": "2025-01-10",
+      "summary": "Visa, residence, civil and criminal services for foreign clients.",
+      "thumbnail": "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?auto=format&fit=crop&w=900&q=80",
+      "fileSize": "PDF · 2.8MB"
+    }
+  ]
+}

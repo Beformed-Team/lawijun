@@ -1,0 +1,50 @@
+[
+  {
+    "id": "press-1",
+    "title": "법무법인 이준, 회생·파산 사건 처리 실적 상위권 진입",
+    "media": "법률신문",
+    "date": "2025-05-12",
+    "thumbnail": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=800&q=80",
+    "url": "https://example.com/press/1"
+  },
+  {
+    "id": "press-2",
+    "title": "외국인 의뢰인 비자 분쟁, 행정심판 인용 사례 다수",
+    "media": "리걸타임즈",
+    "date": "2025-04-30",
+    "thumbnail": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=800&q=80",
+    "url": "https://example.com/press/2"
+  },
+  {
+    "id": "press-3",
+    "title": "이혼 후 양육권 분쟁, 의뢰인 권리 회복 사례 인터뷰",
+    "media": "법조신문",
+    "date": "2025-04-05",
+    "thumbnail": "https://images.unsplash.com/photo-1505664194779-8beaceb93744?auto=format&fit=crop&w=800&q=80",
+    "url": "https://example.com/press/3"
+  },
+  {
+    "id": "press-4",
+    "title": "성범죄 형사 사건에서 무혐의 이끌어낸 변호 사례 조명",
+    "media": "한국일보",
+    "date": "2025-03-22",
+    "thumbnail": "https://images.unsplash.com/photo-1589994965851-a8f479c573a9?auto=format&fit=crop&w=800&q=80",
+    "url": "https://example.com/press/4"
+  },
+  {
+    "id": "press-5",
+    "title": "법무법인 이준 강북 분사무소 신규 개소 인터뷰",
+    "media": "법률저널",
+    "date": "2025-02-18",
+    "thumbnail": "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?auto=format&fit=crop&w=800&q=80",
+    "url": "https://example.com/press/5"
+  },
+  {
+    "id": "press-6",
+    "title": "기업 자문 시장 성장, 종합 법률 서비스 트렌드 분석",
+    "media": "매경 LAW",
+    "date": "2025-01-15",
+    "thumbnail": "https://images.unsplash.com/photo-1423592707957-3b212afa6733?auto=format&fit=crop&w=800&q=80",
+    "url": "https://example.com/press/6"
+  }
+]
